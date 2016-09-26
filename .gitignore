@@ -1,0 +1,18 @@
+
+r backup files
+*~
+*.swp
+*.bak
+*.tmp
+ 
+ # Java project
+ build/
+ *.class
+  
+  # Python project
+  *.pyc
+   
+   # C/C++ project
+   *.so
+   *.o
+
